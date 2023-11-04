@@ -7,10 +7,6 @@ Additionally, NikSolar Forecast allows you to define shading on your solar panel
 If you have multiple solar panels with the same latitude and longitude but pointing in different directions, you can define them as separate locations and use the 'show sum' feature to summarize their output.
 Overall, NikSolar Forecast is a powerful tool for optimizing the use of your own energy and reduce your energy costs. 
 
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/02.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/03.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" width="150"/> 
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">](https://f-droid.org/de/packages/org.woheller69.NikSolar Forecast/)
-
 ## Parameters
 
 #### Name
