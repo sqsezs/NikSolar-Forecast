@@ -1,33 +1,15 @@
-<pre>Send a coffee to woheller69@t-online.de 
-<a href= "https://www.paypal.com/signin"><img  align="left" src="https://www.paypalobjects.com/webstatic/de_DE/i/de-pp-logo-150px.png"></a></pre>
-
-
-| **RadarWeather** | **Gas Prices** | **Smart Eggtimer** |
-|:---:|:---:|:---:|
-| [<img src="https://github.com/woheller69/weather/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.weather/)| [<img src="https://github.com/woheller69/spritpreise/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.spritpreise/) | [<img src="https://github.com/woheller69/eggtimer/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.eggtimer/) |
-| **Bubble** | **hEARtest** | **GPS Cockpit** |
-| [<img src="https://github.com/woheller69/Level/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.level/) | [<img src="https://github.com/woheller69/audiometry/blob/new/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.audiometry/) | [<img src="https://github.com/woheller69/gpscockpit/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.gpscockpit/) |
-| **Audio Analyzer** | **LavSeeker** | **TimeLapseCam** |
-| [<img src="https://github.com/woheller69/audio-analyzer-for-android/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.audio_analyzer_for_android/) |[<img src="https://github.com/woheller69/lavatories/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.lavatories/) | [<img src="https://github.com/woheller69/TimeLapseCamera/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.TimeLapseCam/) |
-| **Arity** | **omWeather** | **solXpect** |
-| [<img src="https://github.com/woheller69/arity/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.arity/) | [<img src="https://github.com/woheller69/omweather/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.omweather/) | [<img src="https://github.com/woheller69/solXpect/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.solxpect/) |
-| **gptAssist** |  |  |
-| [<img src="https://github.com/woheller69/gptassist/blob/master/fastlane/metadata/android/en-US/images/icon.png" width="50">](https://f-droid.org/packages/org.woheller69.gptassist/) |  |  |
-
-# solXpect
-
-solXpect is an app that forecasts the output of your solar power plant by using direct and diffuse radiation data from Open-Meteo.com, calculating the position of the sun, and projecting the radiation on your solar panel. 
+NikSolar Forecast is an app that forecasts the output of your solar power plant by using direct and diffuse radiation data from Open-Meteo.com, calculating the position of the sun, and projecting the radiation on your solar panel. 
 It shows the estimated energy production for the next 16 days, with hourly values calculated for the preceding hour. As an example, if there are 150 Wh shown at 11:00 this means you can expect 150 Wh between 10:00 and 11:00 from your photovoltaic system.
 The values starting with Σ show the cumulated energy since midnight of the first day.
-To use solXpect, you simply enter your latitude and longitude coordinates, as well as the azimuth and tilt of your solar panel. 
+To use NikSolar Forecast, you simply enter your latitude and longitude coordinates, as well as the azimuth and tilt of your solar panel. 
 You also enter information about the peak power, efficiency, temperature coefficient, and area of your solar panel, as well as the maximum power and efficiency of your inverter.
-Additionally, solXpect allows you to define shading on your solar panels by specifying the minimum elevation of the sun necessary for the sun to hit the solar panels, as well as the percentage of shading for elevations below this value.
+Additionally, NikSolar Forecast allows you to define shading on your solar panels by specifying the minimum elevation of the sun necessary for the sun to hit the solar panels, as well as the percentage of shading for elevations below this value.
 If you have multiple solar panels with the same latitude and longitude but pointing in different directions, you can define them as separate locations and use the 'show sum' feature to summarize their output.
-Overall, solXpect is a powerful tool for optimizing the use of your own energy and reduce your energy costs. 
+Overall, NikSolar Forecast is a powerful tool for optimizing the use of your own energy and reduce your energy costs. 
 
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/02.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/03.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" width="150"/> 
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">](https://f-droid.org/de/packages/org.woheller69.solxpect/)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">](https://f-droid.org/de/packages/org.woheller69.NikSolar Forecast/)
 
 ## Parameters
 
